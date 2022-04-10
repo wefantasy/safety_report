@@ -1,8 +1,8 @@
 ###
  # @Author: Fantasy
  # @Date: 2020-10-31 19:21:52
- # @LastEditors: Fantasy
- # @LastEditTime: 2020-11-03 20:51:00
+ # @LastEditors  : Please set LastEditors
+ # @LastEditTime : 2022-04-10 21:16:01
  # @Descripttion:
  # @Email: 776474961@qq.com
 ###
@@ -21,12 +21,12 @@ fi
 unset __conda_setup
 # <<< conda init <<<
 . /usr/local/anaconda3/etc/profile.d/conda.sh
-conda activate py3
-base_dir="/home/fantasy/automatic_check_in"
+conda activate safety_report
+base_dir="/home/fantasy/safety_report"
 cd "${base_dir}"
-echo "开始上报>>>>>>>>>>>>>>>>>>>>>" >> "${base_dir}/log.log"
-date >> "${base_dir}/log.log"
-python main.py >> "${base_dir}/log.log"
-echo "\n\n" >> "${base_dir}/log.log"
+echo "开始上报>>>>>>>>>>>>>>>>>>>>>"
+date
+python main.py
+echo "上报结束====================="
 conda deactivate
 conda deactivate
