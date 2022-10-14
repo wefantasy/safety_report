@@ -2,7 +2,7 @@
  # @Author: Fantasy
  # @Date: 2020-10-31 19:21:52
  # @LastEditors  : Please set LastEditors
- # @LastEditTime : 2022-04-10 21:16:01
+ # @LastEditTime : 2022-10-14 11:36:08
  # @Descripttion:
  # @Email: 776474961@qq.com
 ###
@@ -22,7 +22,7 @@ unset __conda_setup
 # <<< conda init <<<
 . /usr/local/anaconda3/etc/profile.d/conda.sh
 conda activate safety_report
-base_dir="/home/fantasy/safety_report"
+base_dir="/usr/local/safety_report"
 cd "${base_dir}"
 echo "开始上报>>>>>>>>>>>>>>>>>>>>>"
 date
