@@ -7,4 +7,8 @@ LastEditTime: 2020-11-03 23:00:41
 Descripttion: 
 Email: 776474961@qq.com
 '''
-ACCOUNTS = [('', '')]
+ACCOUNTS = [
+    ('username', 'passwd', 'name'),
+]
+
+PROXY_URL = ""
