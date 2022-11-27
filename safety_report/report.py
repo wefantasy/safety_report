@@ -3,9 +3,7 @@
 Author: Fantasy
 Date: 2020-11-03 19:22:24
 LastEditors  : Please set LastEditors
-LastEditTime : 2022-10-14 11:33:14
-Descripttion: 
-Email: 776474961@qq.com
+LastEditTime : 2022-11-27 23:13:19
 '''
 
 import httpx

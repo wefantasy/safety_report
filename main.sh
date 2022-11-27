@@ -2,9 +2,7 @@
  # @Author: Fantasy
  # @Date: 2020-10-31 19:21:52
  # @LastEditors  : Please set LastEditors
- # @LastEditTime : 2022-10-14 11:36:08
- # @Descripttion:
- # @Email: 776474961@qq.com
+ # @LastEditTime : 2022-11-27 23:13:15
 ###
 # !! Contents within this block are managed by 'conda init' !!
 __conda_setup="$(CONDA_REPORT_ERRORS=false '/usr/local/anaconda3/bin/conda' shell.bash hook 2> /dev/null)"

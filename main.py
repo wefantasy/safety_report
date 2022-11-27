@@ -3,9 +3,7 @@
 Author: Fantasy
 Date: 2020-11-03 20:32:46
 LastEditors  : Please set LastEditors
-LastEditTime : 2022-04-10 21:09:31
-Descripttion: 
-Email: 776474961@qq.com
+LastEditTime : 2022-11-27 23:13:11
 '''
 from safety_report.report import Report
 from safety_report import setting
